@@ -14,8 +14,8 @@ Please note that many of our brand assets are available as downloadable files be
 
 ## Downloads
 
-- [Logo square (png)](https://github.com/datadryad/logos/raw/main/Dryad_logo_square_transparent.png)
-- [Logo horizontal (png)](https://github.com/datadryad/logos/raw/main/Dryad_logo_rectangle_transparent.png)
+- [Logo square (png)](https://github.com/datadryad/promotional-materials/blob/main/Dryad_logo_square_transparent.png) (Right click the image and then 'Save Image As')
+- [Logo horizontal (png)](https://github.com/datadryad/promotional-materials/blob/main/Dryad_logo_rectangle_transparent.png) (Right click the image and then 'Save Image As')
 
 - Logo style guide (coming soon)
 - Slide template (coming soon)
