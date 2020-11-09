@@ -1,4 +1,4 @@
-# Dryad Promotional Materials
+# Dryad Informational Materials
 
 The following guidelines are to help you use our logo and assets. When producing communications materials that carry the Dryad visual identity, please refer to these standards for usage.
 
@@ -12,11 +12,14 @@ If you are a Dryad Member organization, you have flexibility to associate your g
 
 Please note that many of our brand assets are available as downloadable files below so that you can easily use them as needed.
 
-## Downloads
-
+### Logos
 - [Logo square (png)](https://github.com/datadryad/promotional-materials/blob/main/Dryad_logo_square_transparent.png) (Right click the image and then 'Save Image As')
 - [Logo horizontal (png)](https://github.com/datadryad/promotional-materials/blob/main/Dryad_logo_rectangle_transparent.png) (Right click the image and then 'Save Image As')
-
 - Logo style guide (coming soon)
+
+### Membership Information
+- [Institutional Membership One-pager](materials/Dryad-Institutional-Membership.pdf)
+
+### Presentations
 - Slide template (coming soon)
 
