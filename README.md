@@ -21,5 +21,6 @@ Please note that many of our brand assets are available as downloadable files be
 - [Institutional Membership One-pager](materials/Dryad-Institutional-Membership.pdf)
 
 ### Presentations
-- Slide template (coming soon)
+- About Dryad Google slide deck (coming soon)
+- Dryad Google slide template (coming soon)
 
