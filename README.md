@@ -2,6 +2,9 @@
 
 The following guidelines are to help you use our logo and assets. When producing communications materials that carry the Dryad visual identity, please refer to these standards for usage.
 
+Products with the Dryad logo can be found for purchase on Redbubble.  
+[https://www.redbubble.com/people/DataDryad](https://www.redbubble.com/people/DataDryad)
+
 ## Using the Dryad brand and logo
 
 Dryad's marks include, but are not limited to, the organization name, logo, social media skins and profile images, and any words, phrases, images, or other designation that identifies the source or origin with any of Dryad's creative work.
