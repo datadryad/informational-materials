@@ -13,8 +13,10 @@ If you are a Dryad Member organization, you have flexibility to associate your g
 Please note that many of our brand assets are available as downloadable files below so that you can easily use them as needed.
 
 ### Logos
-- [Logo square (png)](https://github.com/datadryad/promotional-materials/blob/main/Dryad_logo_square_transparent.png) (Right click the image and then 'Save Image As')
-- [Logo horizontal (png)](https://github.com/datadryad/promotional-materials/blob/main/Dryad_logo_rectangle_transparent.png) (Right click the image and then 'Save Image As')
+- [Logo square (png)](https://github.com/datadryad/promotional-materials/blob/main/logos/Dryad_logo_square_transparent.png) (Right click the image and then 'Save Image As')
+- [Logo horizontal (png)](https://github.com/datadryad/promotional-materials/blob/main/logos/Dryad_logo_rectangle_transparent.png) (Right click the image and then 'Save Image As')
+- [Folder with logos](https://github.com/datadryad/promotional-materials/bl\
+ob/main/logos/), including high resolution versions 
 - Logo style guide (coming soon)
 
 ### Membership Information
