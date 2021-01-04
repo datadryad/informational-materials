@@ -20,8 +20,9 @@ ob/main/logos/), including high resolution versions
 - Logo style guide (coming soon)
 
 ### Membership Information
-- [Institutional Membership One-pager](materials/Dryad-Institutional-Membership.pdf)
+- Institutional Membership One-pager [[pdf]](materials/Dryad-Institutional-Membership.pdf) [[Google doc]](https://docs.google.com/document/d/1dYGPL3YJqKDikL2LyISdYDW_jblQN1YMkfc9NVyfEoc/)
 
 ### Presentations
-- Slide template (coming soon)
+- About Dryad Google slide deck (coming soon)
+- Dryad Google slide template (coming soon)
 
